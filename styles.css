@@ -11,9 +11,7 @@ body{
     position:fixed;
     z-index:5;
     overflow: hidden;
-    -webkit-box-shadow: 0 8px 6px -6px #999;
-    -moz-box-shadow: 0 8px 6px -6px #999;
-    box-shadow: 0 8px 6px -6px #999;
+  
   
   
 }
@@ -106,6 +104,8 @@ transition: transform 2s;
     display: flex;
     padding-left: 5em;
     padding-right: 5em;
+    padding-top: 2em;
+    padding-bottom: 3em;
 
 }
 .btn{
@@ -155,8 +155,8 @@ transition: transform 2s;
 .colored-section{
     overflow:hidden;
     display: flex;
-    padding-left: 10em;
-    padding-right:10em;
+    padding-left: 3em;
+    padding-right:3em;
     padding-bottom: 10em;
  
 }
@@ -362,7 +362,7 @@ color: #41aea9;
  
 }
 .card{
-  border:1px solid #d7385e;
+  border:1px solid #fff;
   
     padding-bottom: 2em;
     padding-top: 2em;
