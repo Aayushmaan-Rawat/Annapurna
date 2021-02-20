@@ -70,7 +70,7 @@
 }
 .l2{
   border:2px solid #d7385e;
-  background-color: #fff;
+  background-color: #fff; 
 
 }
 .fake{
@@ -104,7 +104,7 @@
   
 .donate2{
   overflow:hidden;
-  display: flex;
+  
   padding-left: 5em;
   padding-right:5em;
   margin-bottom: 2em;
